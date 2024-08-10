@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate software engineering student based in Italy, on a journey to explore the fascinating world of technology and coding. Here you'll find a collection of my projects, ranging from simple scripts to more complex applications, all crafted with love and a desire to learn.</h3>
 <h3 align="left">🚀 About Me:</h3>
  <p>🎓 Currently studying software engineering at <strong>University Of Ferrara, Italy</strong>.</p>
- <p>💻 Proficient in languages like <strong>C, Java, assembly</strong>, and more.</p>
+ <p>💻 Proficient in languages like <strong>C, Java, Javascript</strong>, and more.</p>
  <p>🌟 Keen interest in <strong>software engineering, AI, and web development</strong>.</p>
  <p>📚 Always hungry to expand my knowledge and skills in the ever-evolving tech landscape.</p>
  &nbsp;
