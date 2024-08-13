@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Aziz Belkhouja</h1>
-<h3 align="center">I'm a passionate software engineering student based in Italy, on a journey to explore the fascinating world of technology and coding. Here you'll find a collection of my projects, ranging from simple scripts to more complex applications, all crafted with love and a desire to learn.</h3>
+<h3 align="center">A passionate software engineering student based in Italy, on a journey to explore the fascinating world of technology and coding. Here you'll find a collection of my projects, ranging from simple scripts to more complex applications, all crafted with love and a desire to learn.</h3>
 <h3 align="left">🚀 About Me:</h3>
  <p>🎓 Currently studying software engineering at <strong>University Of Ferrara, Italy</strong>.</p>
  <p>💻 Proficient in languages like <strong>C, Java, Javascript</strong>, and more.</p>
