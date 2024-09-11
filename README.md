@@ -1,26 +1,28 @@
-<h1 align="center">Hi 👋, I'm Mohamed Aziz Belkhouja</h1>
-<h3 align="center">A passionate software engineering student based in Italy, on a journey to explore the fascinating world of technology and coding. Here you'll find a collection of my projects, ranging from simple scripts to more complex applications, all crafted with love and a desire to learn.</h3>
-<h3 align="left">🚀 About Me:</h3>
- <p>🎓 Currently studying software engineering at <strong>University Of Ferrara, Italy</strong>.</p>
- <p>💻 Proficient in languages like <strong>C, Java, Javascript</strong>, and more.</p>
- <p>🌟 Keen interest in <strong>software engineering, AI, and web development</strong>.</p>
- <p>📚 Always hungry to expand my knowledge and skills in the ever-evolving tech landscape.</p>
- &nbsp;
-<p align="left"> <a href="https://twitter.com/mdazizbelkhouja" target="blank"><img src="https://img.shields.io/twitter/follow/mdazizbelkhouja?logo=twitter&style=for-the-badge" alt="mdazizbelkhouja" /></a> </p>
+# Hi, I'm Mohamed Aziz Belkhouja
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-</p>
+**Full Stack Developer | Computer Engineering - Web Systems Student at the University of Ferrara, Italy.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamed-aziz-belkhouja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-aziz-belkhouja" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/azizbelkhouja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="azizbelkhouja" height="30" width="40" /></a>
-<a href="https://instagram.com/azizbelkhouja_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azizbelkhouja_" height="30" width="40" /></a>
-</p>
+**Based in Ferrara, Italy**
 
-&nbsp;
-&nbsp;
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🚀 Technologies & Tools I Use to Build the Future of the Web
+
+### Programming Languages:
+- JavaScript, TypeScript, SQL, NoSQL, Java, C, HTML, CSS
+
+### Frontend Technologies:
+- **Frameworks & Libraries**: Angular, ReactJS, Redux, jQuery
+- **Styling**: Bootstrap, SASS, CSS
+- **Scripting**: JavaScript, TypeScript
+
+### Backend Technologies:
+- **Frameworks**: Spring Boot, ExpressJS, NodeJS
+- **APIs**: RESTful APIs, JSON, AJAX
+- **Databases**: MySQL, PostgreSQL, SQL, NoSQL
+
+### Tools:
+- Git & GitHub, VS Code, IntelliJ IDEA, NetBeans, Code::Blocks
+
+## 📫 Get in Touch
+
+- Email: belkhoujamohamedaziz@gmail.com  
+- LinkedIn: [Mohamed Aziz Belkhouja](https://www.linkedin.com/in/mohamed-aziz-belkhouja/)
