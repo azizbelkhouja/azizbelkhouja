@@ -10,7 +10,7 @@
 - JavaScript, TypeScript, SQL, NoSQL, Java, C, HTML, CSS
 
 ### Frontend Technologies:
-- **Frameworks & Libraries**: Angular, ReactJS, Redux, jQuery
+- **Frameworks & Libraries**: Angular, React, Redux, jQuery
 - **Styling**: Bootstrap, SASS, CSS
 - **Scripting**: JavaScript, TypeScript
 
