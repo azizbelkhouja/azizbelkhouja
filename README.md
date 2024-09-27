@@ -4,6 +4,8 @@
 
 **Based in Ferrara, Italy**
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azizbelkhouja&show_icons=true&locale=en&layout=compact" alt="azizbelkhouja" /></p>
+
 ## 🚀 Technologies & Tools I Use to Build the Future of the Web
 
 ### Programming Languages:
@@ -66,6 +68,10 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
 ![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-CC6666?style=flat&logo=code-blocks&logoColor=white)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 ## 📫 Get in Touch
 
