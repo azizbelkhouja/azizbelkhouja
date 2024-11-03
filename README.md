@@ -12,8 +12,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-<!--
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+<!--
 ![NoSQL](https://img.shields.io/badge/-NoSQL-3C873A?style=flat&logo=mongodb&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 -->
@@ -41,23 +41,23 @@
 <!--
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 -->
-<!--
 ### Backend Technologies:
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+- **Databases**:  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<!--
 - **Frameworks**:  
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=flat&logo=express&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
 - **APIs**:  
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-005571?style=flat&logo=api&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
 ![AJAX](https://img.shields.io/badge/-AJAX-005571?style=flat&logo=ajax&logoColor=white)
 
-- **Databases**:  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-3C873A?style=flat&logo=mongodb&logoColor=white)-->
 
 ### Tools:
@@ -68,10 +68,6 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
 ![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-CC6666?style=flat&logo=code-blocks&logoColor=white)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 ## 📫 Get in Touch
 
