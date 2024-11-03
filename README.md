@@ -42,11 +42,11 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 -->
 ### Backend Technologies:
+- **Frameworks**:  
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 - **Databases**:  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 <!--
-- **Frameworks**:  
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=flat&logo=express&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js&logoColor=white)
 
