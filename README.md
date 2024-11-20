@@ -4,7 +4,8 @@
 
 **Based in Ferrara, Italy**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azizbelkhouja&show_icons=true&locale=en&layout=compact" alt="azizbelkhouja" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizbelkhouja&layout=compact&theme=tokyonight&langs_count=4)
+
 
 ## 🚀 Technologies & Tools I Use to Build the Future of the Web
 
