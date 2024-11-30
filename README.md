@@ -1,5 +1,3 @@
-# Hi, I'm Mohamed Aziz Belkhouja
-
 **Full Stack Developer | Computer Engineering - Web Systems Student at the University of Ferrara, Italy.**
 
 **Based in Ferrara, Italy**
