@@ -4,7 +4,7 @@ Full Stack Developer **Based in Ferrara, Italy**
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azizbelkhouja&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-## Teck Stack 🛠️ :
+## Teck Stack 🛠️
 
 ### Frontend 🎨 :
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
