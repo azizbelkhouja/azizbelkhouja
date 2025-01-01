@@ -48,7 +48,7 @@ Full Stack Web Developer **Based in Ferrara, Italy**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-3C873A?style=flat&logo=mongodb&logoColor=white)-->
 
-### Tools:
+### Tools :
 <!--![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)-->
 ![VSCode](https://img.shields.io/badge/VSCode-IDE-blue?logo=visual-studio-code&logoColor=white)
