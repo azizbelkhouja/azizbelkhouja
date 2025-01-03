@@ -21,6 +21,7 @@ Full Stack Web Developer **Based in Ferrara, Italy**
 
 ### Database 🗄️ :
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 <!--
 ![NoSQL](https://img.shields.io/badge/-NoSQL-3C873A?style=flat&logo=mongodb&logoColor=white)
 -->
@@ -44,7 +45,6 @@ Full Stack Web Developer **Based in Ferrara, Italy**
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
 ![AJAX](https://img.shields.io/badge/-AJAX-005571?style=flat&logo=ajax&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-3C873A?style=flat&logo=mongodb&logoColor=white)-->
 
