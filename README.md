@@ -39,7 +39,7 @@ Full Stack Web Developer **Based in Ferrara, Italy**
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
 -->
 ### APIs :  
-![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-005571?style=flat&logo=api&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-005571?style=flat&logo=api&logoColor=white)
 <!--
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=flat&logo=express&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js&logoColor=white)
