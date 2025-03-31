@@ -1,8 +1,11 @@
 Full Stack Web Developer **Based in Ferrara, Italy**
 
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/azizbelkhouja/)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azizbelkhouja&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
 
 ## Teck Stack 🛠️
 
