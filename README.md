@@ -1,6 +1,4 @@
-# 👨‍💻 Mohamed Aziz Belkhouja
-
-**Full Stack Web Developer — Based in Ferrara, Italy 🇮🇹**
+# 👨‍💻 **Full Stack Web Developer — Based in Ferrara, Italy**
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/azizbelkhouja/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mohamed-aziz-belkhouja/)
