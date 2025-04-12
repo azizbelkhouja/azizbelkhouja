@@ -1,8 +1,8 @@
 # 👨‍💻 **Full Stack Web Developer — Based in Ferrara, Italy**
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/azizbelkhouja/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mohamed-aziz-belkhouja/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belkhoujamohamedaziz@gmail.com)
+- 📧 **Email:** [belkhoujamohamedaziz@gmail.com](mailto:belkhoujamohamedaziz@gmail.com)  
+- 💼 **LinkedIn:** [Mohamed Aziz Belkhouja](https://www.linkedin.com/in/mohamed-aziz-belkhouja/)  
+- 🧠 **LeetCode:** [azizbelkhouja](https://leetcode.com/azizbelkhouja/)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azizbelkhouja&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Languages graph" />
