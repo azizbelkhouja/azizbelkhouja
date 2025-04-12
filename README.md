@@ -2,7 +2,7 @@
 
 - 📧 **Email:** [belkhoujamohamedaziz@gmail.com](mailto:belkhoujamohamedaziz@gmail.com)  
 - 💼 **LinkedIn:** [Mohamed Aziz Belkhouja](https://www.linkedin.com/in/mohamed-aziz-belkhouja/)  
-- 🧠 **LeetCode:** [azizbelkhouja](https://leetcode.com/azizbelkhouja/)
+- 🧩 **LeetCode:** [azizbelkhouja](https://leetcode.com/azizbelkhouja/)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azizbelkhouja&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Languages graph" />
