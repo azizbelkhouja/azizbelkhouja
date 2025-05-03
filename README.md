@@ -18,7 +18,7 @@
 - TypeScript
 - JavaScript
 - HTML5, CSS3
-- Tailwind CSS, Bootstrap
+- Tailwind CSS, Bootstrap, SCSS
 
 ### Backend
 - Spring Boot
