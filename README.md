@@ -13,7 +13,7 @@
 ## 🚀 Projects
 
 ### 🖥️ **PC workstation reservation** — [Live Demo 🔗](https://campuslab-live.onrender.com/) | [GitHub Repo 🛠️](https://github.com/azizbelkhouja/CampusLab)
-**Stack:** MERN: Reactjs, Nodejs, MongoDB
+**Stack:** MERN: Reactjs, Nodejs, ExpressJs, MongoDB
 
 It allows students to book PC workstations and teachers to organize seminars in the laboratories.
 
