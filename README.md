@@ -24,7 +24,7 @@ It allows students to book PC workstations and teachers to organize seminars in 
 
 ---
 
-## 💻 Tech Stack
+## 🧑‍💻 Tech Stack
 
 ### Frontend
 - React
