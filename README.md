@@ -1,4 +1,4 @@
-# 👨‍💻 **Full Stack Web Developer — Based in Ferrara, Italy**
+# **Full Stack Web Developer — Based in Ferrara, Italy**
 
 - 📧 **Email:** [belkhoujamohamedaziz@gmail.com](mailto:belkhoujamohamedaziz@gmail.com)  
 - 💼 **LinkedIn:** [Mohamed Aziz Belkhouja](https://www.linkedin.com/in/mohamed-aziz-belkhouja/)  
