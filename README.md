@@ -15,14 +15,8 @@
 ### - **Prenotazione postazioni PC** — [Demo Live 🔗](https://campuslab-live.onrender.com/) | [Repository GitHub 🛠️](https://github.com/azizbelkhouja/CampusLab)  
 **Stack:** MERN: Reactjs, Nodejs, ExpressJs, MongoDB .
 
-Permette agli studenti di prenotare postazioni PC e ai docenti di organizzare seminari nei laboratori.
-
-<br></br>
-
 ### - **Job Application Tracker** — [Demo Live 🔗](https://jobbando.onrender.com/) | [Repository GitHub 🛠️](https://github.com/azizbelkhouja/Job-Application-Tracker)  
 **Stack:** PERN: Reactjs, Nodejs, ExpressJs, PostgreSQL .
-
-Ti consente di tenere traccia delle candidature di lavoro in modo semplice e organizzato.
 
 ---
 
