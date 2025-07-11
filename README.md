@@ -19,7 +19,7 @@
 **Stack:** PERN: Reactjs, Nodejs, ExpressJs, PostgreSQL .
 
 ### - **E-commerce** — [Demo Video 🔗](https://youtu.be/ejPPBZP1dF4) | [Repository GitHub 🛠️](https://github.com/azizbelkhouja/CampusMarket)  
-**Stack:**: React, SpringBoot, Typescript, TailwindCSS, MySQL .
+**Stack:** React, SpringBoot, Typescript, TailwindCSS, MySQL .
 
 ---
 
