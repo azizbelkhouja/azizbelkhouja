@@ -18,6 +18,9 @@
 ### - **Job Application Tracker** — [Demo Live 🔗](https://jobbando.onrender.com/) | [Repository GitHub 🛠️](https://github.com/azizbelkhouja/Job-Application-Tracker)  
 **Stack:** PERN: Reactjs, Nodejs, ExpressJs, PostgreSQL .
 
+### - **E-commerce** — [Demo Video 🔗](https://youtu.be/ejPPBZP1dF4) | [Repository GitHub 🛠️](https://github.com/azizbelkhouja/CampusMarket)  
+**Stack:** PERN: React, SpringBoot, Typescript, TailwindCSS, MySQL .
+
 ---
 
 ## 🧑‍💻 Tech Stack
