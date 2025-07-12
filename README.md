@@ -10,8 +10,7 @@
 
 ---
 
-## 🚀 Progetti
-
+# **🚀 Progetti**
 ### - **Prenotazione postazioni PC** — [Demo Live 🔗](https://campuslab-live.onrender.com/) | [Repository GitHub 🛠️](https://github.com/azizbelkhouja/CampusLab)  
 **Stack:** MERN: Reactjs, Nodejs, ExpressJs, MongoDB .
 
