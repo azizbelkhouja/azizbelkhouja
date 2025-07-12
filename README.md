@@ -15,7 +15,7 @@
 ### - **Prenotazione postazioni PC** — [Demo Live 🔗](https://campuslab-live.onrender.com/) | [Repository GitHub 🛠️](https://github.com/azizbelkhouja/CampusLab)  
 **Stack:** MERN: Reactjs, Nodejs, ExpressJs, MongoDB .
 
-### - **Job Application Tracker** — [Demo Live 🔗](https://jobbando.onrender.com/) | [Repository GitHub 🛠️](https://github.com/azizbelkhouja/Job-Application-Tracker)  
+### - **Tracker delle domande di lavoro** — [Demo Live 🔗](https://jobbando.onrender.com/) | [Repository GitHub 🛠️](https://github.com/azizbelkhouja/Job-Application-Tracker)  
 **Stack:** PERN: Reactjs, Nodejs, ExpressJs, PostgreSQL .
 
 ### - **E-commerce** — [Demo Video 🔗](https://youtu.be/ejPPBZP1dF4) | [Repository GitHub 🛠️](https://github.com/azizbelkhouja/CampusMarket)  
